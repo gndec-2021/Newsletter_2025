@@ -184,7 +184,7 @@ Dr. Munish Rattan
 
 ![Advisor Session (Machine)](Images/TN2.jpg)
 
-<div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges.</div
+<div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges.</div>
 
 -----------------------------------------
 ### Electrified Quizzer
@@ -194,7 +194,6 @@ Dr. Munish Rattan
 <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
 
 -----------------------------------------
-
 ### Workshop on Mobile chipset repairing
 
 ![Mobile chipset repairing](Images/cs1.JPG)
@@ -204,7 +203,6 @@ Dr. Munish Rattan
 <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
 
 -----------------------------------------
-
 ### Guess-a-Graphy
 
 ![Advisor Session (Guess-a-Graphy)](Images/gag2.JPG)
@@ -234,9 +232,9 @@ Dr. Munish Rattan
  
 - **Preeti Pannu** Reviewer at the 4th International Conference on Advanced Network Technologies and Intelligent Computing (ANTIC-2024) organized by the Department of Computer Science, Institute of Science, Banaras Hindu University (BHU), Varanasi, India, held in hybrid mode during December 19–21, 2024.
 
-- **Gurpurneet Kaur** Reviewer of Manuscripts for International Conference on Digital Innovation in Electronics, Communication and AI (DIECAI-2025)
+- **Gurpurneet Kaur** Reviewer of Manuscripts for International Conference on Digital Innovation in Electronics, Communication and AI (DIECAI-2025
 
-
+-------------------------------------------
 ## Publications  (Journals)
 
 [1] Pankaj Palta and **Munish Rattan**, “Effects of Different Substrates for Wearable Patch Antennas at 2.45 GHz,” *Innovations in Computing*, Jan. 2025.
@@ -281,6 +279,7 @@ Dr. Munish Rattan
 
 [21] **Shivmanmeet Singh**, Harmandeep Kaur, and **Preeti Pannu**, “Performance Analysis of QAM and QPSK for FSOWC System Using Machine Learning,” *Journal of Optics*, Oct. 2024.
 
+-------------------------------------------
 ## Publications  (Conferences)
 
 [1] **Kunwar Partap Singh**, Rajan Vohra, “Comparative Analysis of Electrical Conductance through Guanine and Thymine Based Molecular Devices,” *6th International Conference on Intelligent Circuits and Systems (ICICS-2024)*, Lovely Professional University, Phagwara, 25–26 October 2024, International.
@@ -307,7 +306,7 @@ Dr. Munish Rattan
 
 [12] **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, “Bridging Tradition and Technology: Integrating Indian Knowledge,” *International Conference on Indian Knowledge System: From Glorious Past to Bright Future*, Maharaja Agrasen University, I.K. Gujral Punjab Technical University and Baba Mastnath University, 4–5 April 2025, International.
 
-
+-------------------------------------------
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 | Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
@@ -326,7 +325,7 @@ Dr. Munish Rattan
 | 12    | Guess-a-graphy                                             | Dr. Shivmanmeet Singh | 1 day    | 23-04-2025      | IETE GNDEC                      |
 | 13    | One week short term course on “AI applications in VLSI design” in collaboration with NITTTR, Chandigarh | **Dr. Chahat Jain**       | 5 days   | July 14-18, 2025 | NITTTR Chandigarh and GNDEC     |
 
-
+-------------------------------------------
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 ### Preeti Pannu
@@ -428,12 +427,15 @@ Dr. Munish Rattan
 |--------|--------------|----------|----------|----------------------|
 | 31 | FDP on Computer Vision in Autonomous Driving | 1 Week | 24-28 Feb, 2025 | VIT, Chennai |
 
+
+-------------------------------------------
 ## Expert Lecture delivered
 
 ![Students](Images/gpk.jpg)
 
 - **Gurpurneet Kaur**, delivered expert lecture on Counter Design using HDL, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on FPGA Implementation of Counter Design, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on Overview of HDL using Vivado Design Suite, at GNDEC, Ludhiana, 16/12/2024 – 21/12/2024; delivered expert lecture on Enhancing Energy Efficiency in VLSI Circuits through GA and WOA-based Optimization Techniques, at GNDEC, Ludhiana (in collaboration with NITTTR, Chandigarh), 14/07/2025 – 18/07/2025; and delivered expert lecture on Mini Projects using Raspberry Pi, at GNDEC, Ludhiana, 19/02/2025 – 05/03/2025.
 
+-------------------------------------------
 ## Placement Record
 ### 2024 PASSOUT STUDENTS
 
@@ -501,6 +503,7 @@ Dr. Munish Rattan
 | 35 | 2104412 | Pushpraj Dwevedi | CWEB Consultant, Mohali | 15k Per Month |
 | 36 | 2104453 | Satnam Singh | Fast Way | 30000 |
 
+-------------------------------------------
 ## List of Consultancy by ECE Faculty  
 ### Session 2024-2025
 
@@ -512,13 +515,15 @@ Dr. Munish Rattan
 
 **Note:** The total combined consultancy fund for all three projects is **Rs. 2,94,000**.
 
-
+-------------------------------------------
 ## List of Fund
 ### Session 2024-2025 – Faculty Projects / Grants
 
 | S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
 |--------|----------------|----------------|----------------|----------|-----------------|----------|-------------------------------|---------|
 | 1 | Munish Rattan, Gurpurneet Kaur | Alumni Grant | GNDEC, Ludhiana | Grants | Rs 25,000 | One year | 2025 | Completed |
+
+-------------------------------------------
 ## Student's Corner  
 
 ## - Student's Achievements
