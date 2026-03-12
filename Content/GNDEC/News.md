@@ -114,9 +114,9 @@ Dr. Khushdeep Dharni, Associate Director (Technology and Marketing) and IPR Cell
 
 #### 🕒 Published on October 25, 2024
 
-![HSR](Images/AP1.jpeg)
+![HSR](Images/AP1.jpg)
 
-![HSR](Images/AP2.jpeg)
+![HSR](Images/AP2.jpg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC), Gill Road Ludhiana, welcomed the much-anticipated inter-school extravaganza, GNE'S APEX 2024, on October 25th, 2024. Organized by the Causmic Club under the Department of Applied Science, this event paid homage to the legendary leadership and humanitarian contributions of Mr. Ratan N. Tata. The event witnessed enthusiastic participation from 30 schools, creating an atmosphere filled with excitement and camaraderie.
@@ -136,9 +136,9 @@ Dr. Sehijpal Singh, Principal of GNDEC, marked the event as an invaluable opport
 
 #### 🕒 Published on November 10, 2024
 
-![HSR](Images/AA1.jpeg)
+![HSR](Images/AA1.jpg)
 
-![HSR](Images/AA2.jpeg)
+![HSR](Images/AA2.jpg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, recently hosted its Annual Alumni Meet, bringing together graduates from 1960 to the 2022 batch. Alumni from India, as well as from U.S., Canada, Australia, and the U.K., gathered to reconnect and contribute to the college’s development, making this a truly global event. The program began with a group of current students reciting shabad kirtan and setting a warm and nostalgic tone for the day.
@@ -156,9 +156,9 @@ GNDEC Principal Dr. Sehijpal Singh expressed his gratitude to the alumni for the
 
 #### 🕒 Published on November 21, 2024
 
-![HSR](Images/AA1.jpeg)
+![HSR](Images/II1.jpg)
 
-![HSR](Images/AA2.jpeg)
+![HSR](Images/II2.jpg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC), Ludhiana, conducted an Industry-Institute Meet, facilitated by the Department of Mechanical & Production Engineering and the Industrial Relations Cell. The event aimed to foster collaboration between academia and industry, ensuring students are equipped with industry-relevant skills to meet evolving market demands.
@@ -176,7 +176,7 @@ Prof. J.S. Grewal extended a warm welcome to the participants. Dr. Jatinder Kapo
 
 ![HSR](Images/GJ1.jpeg)
 
-![HSR](Images/GJ2.jpeg)
+![HSR](Images/GJ2.jpg)
 
 <p align="justify">
   
@@ -211,9 +211,9 @@ Guru Nanak Dev Engineering College (GNDEC) Ludhiana team Codex comprising of Che
 
 #### 🕒 Published on Janurary 16, 2024
 
-![HSR](Images/SIH1.jpeg)
+![HSR](Images/TA1.jpg)
 
-![HSR](Images/SIH2.jpeg)
+![HSR](Images/TA2.jpg)
 
 <p align="justify">
   
