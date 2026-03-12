@@ -5,9 +5,9 @@
 
 #### 🕒 Published on June 25, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1.jpeg)
+![HSR](Images/1.jpeg)
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1or.jpeg)
+![HSR](Images/1or.jpeg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College, Gill Park, Ludhiana, recently hosted a three-day workshop titled “Artificial Intelligence and Punjabi Language: Recent Trends and Challenges,” sponsored by the All India Council for Technical Education (AICTE) under the VAANI scheme. The workshop aimed to equip participants with a thorough understanding of AI and its applications in the Punjabi language.
@@ -25,9 +25,9 @@ Principal Dr. Sehijpal Singh appreciated the initiative taken by the coordinator
 
 #### 🕒 Published on August 15, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/2.jpeg)
+![HSR](Images/2.jpeg)
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/2or.jpeg)
+![HSR](Images/2or.jpeg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College, Ludhiana organised Anti-Ragging Day and Nasha Mukt Abhiyaan on the campus. As per the directions from the Ministry of Social Justice and Empowerment, Government of India, more than 650 students and eleven faculty members took the pledge against drug abuse.
@@ -49,9 +49,9 @@ S. Inderpal Singh, Director, Nankana Sahib Education Trust, exhorted the student
 
 #### 🕒 Published on September 21, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/3.jpeg)
+![HSR](Images/3.jpeg)
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/3or.jpeg)
+![HSR](Images/3or.jpeg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC) is proud to announce that two of its esteemed faculty members have been recognized in Stanford University's prestigious list of the World's Top 2% Scientists.
@@ -71,9 +71,9 @@ He noted, “Their inclusion in such a prestigious list not only highlights thei
 
 #### 🕒 Published on October 1, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4.jpeg)
+![HSR](Images/4.jpeg)
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4or.jpeg)
+![HSR](Images/4or.jpeg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, hosted the IKGPTU Inter-College Cycling Competition for men and women at the PAU Cycling Velodrome on October 1, 2024.
@@ -95,9 +95,9 @@ The event concluded with an award ceremony where winners were felicitated with m
 
 #### 🕒 Published on October 1, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4.jpeg)
+![HSR](Images/4.jpeg)
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4or.jpeg)
+![HSR](Images/4or.jpeg)
 
 <p align="justify">
 To promote innovation and equip students and faculty with essential knowledge, the IPMCC GNDEC, in collaboration with the Punjab State Council of Science and Technology (PSCST), successfully hosted a comprehensive workshop titled “IP Blueprint: Navigating Intellectual Property” to celebrate World IP Day.
@@ -112,6 +112,10 @@ Dr. Khushdeep Dharni, Associate Director (Technology and Marketing) and IPR Cell
 # "Anand Utsav 2025" Ignites Festivities at GNDEC
 
 #### 🕒 Published on March 6, 2025
+
+![HSR](Images/AN1.jpg)
+
+![HSR](Images/AN2.jpg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, resonated with exuberance and cultural vibrancy as the highly anticipated two-day fair, "Anand Utsav 2025," kicked off on March 6, 2025. The event captivated participants and attendees alike with its diverse array of cultural competitions, fostering an atmosphere of celebration and camaraderie.
@@ -129,6 +133,10 @@ The seamless organization and successful execution of "Anand Utsav 2025" were at
 # IKGPTU 27th Annual Athletic Meet Held at GNDEC, Ludhiana
 
 #### 🕒 Published on March 20, 2025
+
+![HSR](Images/A1.jpg)
+
+![HSR](Images/A2.jpg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC), Ludhiana, successfully hosted the 27th Annual Athletic Meet of I.K. Gujral Punjab Technical University (IKGPTU) on March 20-21, 2025. The event began with a march past by athletes from 20 colleges, showcasing discipline and team spirit.
@@ -148,6 +156,10 @@ Dignitaries commended the participants and organizers for making the event a suc
 
 #### 🕒 Published on April 8, 2025
 
+![HSR](Images/PL1.jpg)
+
+![HSR](Images/PL2.jpeg)
+
 <p align="justify">
 Guru Nanak Dev Engineering College (GNDEC) kick-started the celebrations for the 70th year of its establishment. The Foundation Day celebrated the milestones in the institution’s enduring legacy of academic excellence, innovation, and service to society.
 
@@ -163,6 +175,10 @@ The Foundation Day was observed with great enthusiasm, bringing together student
 # Orientation Program for Punjab100 Concludes at GNDEC, Ludhiana 
 
 #### 🕒 Published on April 18, 2025
+
+![HSR](Images/PB1.jpeg)
+
+![HSR](Images/PB2.jpeg)
 
 <p align="justify">
 Guru Nanak Dev Engineering College, Gill Park Ludhiana hosted the orientation ceremony for the selected candidates of Punjab100 Phase 3, an initiative by Prayas Educational and Charitable Society in association with CML society, GNDEC aimed at empowering 100 girls from Punjab with free online CAT coaching.
