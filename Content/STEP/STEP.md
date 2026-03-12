@@ -90,7 +90,8 @@ Govt. Senior Secondary Smart School (10th & +2 Students), Sekhewal Visited the S
 
 GNA University (Management & Engineers students), Phagwara Hoshiarpur, visited the STEP GNDEC on 27th February 2025, Dr. Arvind Dhingra (Executive Director, STEP GNDEC) addressed them about start-ups and industries. Mr. Ravinder Dev (TPO & Mgmt. Faculty, STEP GNDEC) shared professional career guidance and encouraged budding entrepreneurs to the start-ups. Subsequently, during visits, Mr. Bhupinder Singh showed to students the FAB-LAB. Mr. Manjit Singh, Mr. Amritpal Singh & Ms. Chankirat Kaur took them for an industrial visit, Industry interaction helped in updating the curriculum when there were significant changes in prevalent technologies; also, the faculty members got to know about the industry’s latest trends for entrepreneurship.
 
-![IMAGE](https://github.com/user-attachments/assets/399dd3d4-aaec-405e-8b1c-b2e90f8b56e6)
+![image](https://github.com/user-attachments/assets/62c87ace-ce59-464a-a7c3-355822483686)
+
 
 Khalsa College, Garhdiwala District Hoshiarpur (BCA students), visited the STEP GNDEC on 20th March 2025, Ms. Gurpreet Kaur (Assistant Professor of Mgmt. & Program officer, STEP GNDEC) gave the session on Entrepreneurship that how to start your venture. Mr. Ravinder Dev (TPO & Assistant Professor of Mgmt. STEP GNDEC) shared professional career guidance about training placement & latest software and also encouraged budding entrepreneurs to start start-ups. Subsequently, during visits. Mr. Manjit Singh, & Ms. Chankirat Kaur took them for an industrial visit and observed how industries operate allowing students and professionals to grasp industry-specific practices, standards, and regulations.
 
