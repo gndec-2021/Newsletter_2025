@@ -109,6 +109,71 @@ Dr. Divya Kaushik, Patent Scientist at PSCST, shared insights into different typ
 Dr. Khushdeep Dharni, Associate Director (Technology and Marketing) and IPR Cell, PAU Ludhiana, acquainted the audience with the commercialization aspects of intellectual property.
 </p>
 
+# IKGPTU 27th Annual Athletic Meet Held at GNDEC, Ludhiana
+
+#### 🕒 Published on October 1, 2024
+
+<p align="justify">
+Guru Nanak Dev Engineering College (GNDEC), Ludhiana, successfully hosted the 27th Annual Athletic Meet of I.K. Gujral Punjab Technical University (IKGPTU) on March 20-21, 2025. The event began with a march past by athletes from 20 colleges, showcasing discipline and team spirit.
+
+Dr. Sehijpal Singh, Principal of GNDEC, welcomed participants, emphasizing the importance of fitness and sportsmanship. Chief Guest Dr. Susheel Mittal, Vice Chancellor of IKGPTU, officially inaugurated the meet, with Dr. Vishavjeet Singh Hans (PAU, Ludhiana) as the Guest of Honour.
+
+The two-day event featured various track and field competitions, including sprints, middle and long-distance races, hurdles, relay races, high jump, long jump, triple jump, shot put, javelin throw, discus throw, and hammer throw.
+
+Key officials included Dr. Satvir Singh (Dean Student Welfare), PTU Observer S. Bhupinder Singh, and the Jury of Appeal members. The event was coordinated by Dr. Sameer Sharma (OI/C Sports, PTU) and Dr. Gunjan Bhardwaj (GNDEC).
+
+Mr. Sameer Sharma, PTU Sports Incharge, applauded the athletes’ dedication and competitive spirit. The meet concluded with a grand prize distribution, where winners were honored with medals and trophies.
+
+Dignitaries commended the participants and organizers for making the event a success. Dr. Sehijpal Singh and Dr. Susheel Mittal reaffirmed the university’s commitment to promoting sports alongside academics, fostering teamwork, perseverance, and sportsmanship among students.
+</p>
+
+
+# "Anand Utsav 2025" Ignites Festivities at GNDEC
+
+#### 🕒 Published on March 6, 2025
+
+<p align="justify">
+Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, resonated with exuberance and cultural vibrancy as the highly anticipated two-day fair, "Anand Utsav 2025," kicked off on March 6, 2025. The event captivated participants and attendees alike with its diverse array of cultural competitions, fostering an atmosphere of celebration and camaraderie.
+
+The festivities encompassed a wide range of activities, including solo and group dances, skits, folk dances, mehndi, rangoli, clay modeling, photography, poster making, and many more. Students from various departments of GNDEC showcased their talents with enthusiasm, contributing to the lively spirit of the event. Distinguished judges from various fields and esteemed institutions of the region ensured impartial adjudication of the competitions. 
+
+Renowned Punjabi actor Padsm Shri Ms. Nirmal Rishi, graced the occasion with her esteemed presence, offering insightful perspectives and urging students to uphold the values of truth and respect for their culture. The event also saw the participation of notable guests such as Pali Detwalia, the renowned Punjabi singer, Harkirat Kaur Chahal, a celebrated Punjabi writer, and Ashok Bansal, a prominent writer, who all lauded the students of GNDEC for their remarkable achievements across various fields. 
+
+Dr. Sehijpal Singh, Principal of GNDEC, underscored the importance of such events in nurturing students' confidence and fostering cultural appreciation.  S. Iqbal Singh, Director of Nankana Sahib Education Trust, applauded the exemplary participation and performance of students, acknowledging the diligent efforts of the Cultural Committee.  
+S. Gurcharan Singh Grewal, Senior Trustee, NSET, commended the students of GNDEC for their achievements in various fields, emphasizing their consistent success in education, sports, and cultural activities.
+
+The seamless organization and successful execution of "Anand Utsav 2025" were attributed to the dedicated efforts of Dr. K.S. Mann, Prof. Jaswant Singh Taur, Dr. Parampal Singh, along with the program coordinators and members of the Cultural Committee.
+</p>
+
+# GNDEC commenced platinum jubilee  celebrations
+
+#### 🕒 Published on April 8, 2025
+
+<p align="justify">
+Guru Nanak Dev Engineering College (GNDEC) kick-started the celebrations for the 70th year of its establishment. The Foundation Day celebrated the milestones in the institution’s enduring legacy of academic excellence, innovation, and service to society.
+
+The day commenced with a spiritual session featuring the recitation of Path Sri Sukhmani Sahib Ji and soulful Kirtan by Bhai Shaukeen Singh Ji, Hazuri Ragi from Sri Darbar Sahib, creating a serene and devotional atmosphere. This was followed by the launch of a vibrant lineup of events, including ACME 2025, an Inter-College Competition sponsored by Landmark Immigration and co-powered by AECC Study Abroad Consultants, Geek Bees, Coca-Cola, SK Trophy,  KT sweets and equitas small finance bank. The event is dedicated to former Principal Dr. S.B Singh. The day also saw the continuation of the Jugaad Mela, a dynamic showcase of creativity and technical ingenuity.
+
+The celebrations culminated with a Prize Distribution Ceremony held in the Auditorium where winners of various competitions were felicitated. Principal Dr. Sehijpal Singh appreciated the dedication and participation of students and faculty, reaffirming GNDEC’s commitment to fostering academic innovation and holistic development. President of GENCO Alumni Association Er. S.M.S Sandhu and Er. H.S Dhillon, General Secretary, gave away several awards, including best student, best teacher, outstanding department award. The college magazine and a logo for the platinum year were released on the occasion
+
+Dr. Parminder Singh (Dean Student Welfare), Dr. Harpreet Kaur (HoD, Applied Sciences), and Dr. Arvind Dhingra (EE Dept.) led the organizing efforts, ensuring a seamless blend of technical excellence and cultural richness throughout the celebration.
+
+The Foundation Day was observed with great enthusiasm, bringing together students, faculty, alumni, and distinguished guests to reflect on the institution’s illustrious journey and to reaffirm its mission of nurturing future leaders and changemakers.
+</p> 
+
+# Orientation Program for Punjab100 Concludes at GNDEC, Ludhiana 
+
+#### 🕒 Published on April 18, 2025
+
+<p align="justify">
+Guru Nanak Dev Engineering College, Gill Park Ludhiana hosted the orientation ceremony for the selected candidates of Punjab100 Phase 3, an initiative by Prayas Educational and Charitable Society in association with CML society, GNDEC aimed at empowering 100 girls from Punjab with free online CAT coaching.
+
+The program, inspired by the Super 30 model, seeks to prepare young women from economically weaker sections for India’s top business schools and future corporate leadership. Phase 3 candidates, along with their parents, attended the session where documents were verified, program details were shared, and selection letters were distributed.
+
+The event was graced by Chief Guest Mrs. Swati Munjal and motivational speaker Ms. Mandeep Tangra, all of whom inspired the students to make the most of this opportunity and pursue their goals with determination. Mr. Sony Goyal, Founder of Punjab100, emphasized the initiative’s long-term vision to see 100 deserving women enter and excel in India’s premier B-schools. Dr. Sehijpal Singh, Principal, GNDEC, said we are proud to support such efforts that align with our vision of inclusive and empowering education.
+
+The successful execution of the event was made possible through the dedicated efforts of Himani, Siddharth, Parul Arora, Aditi Singla, Haider Ali, and Simrat Sandhu. We were honored by the presence of several distinguished guests, including Er. H.S. Dhillon, Prof. Lakhbir Singh, Mr. Vijay Kant Goyal, Mrs. Shabnam Singla, Mr. Teerath Pal Singh, and Mr. Jai Singh. The session concluded on a high note, with enthusiastic participation from students, unwavering support from volunteers, and heartfelt gratitude.
+</p> 
 
 **PRO & Office Incharge Workshop: Dr. Satjot Singh Dhillon**   
 
