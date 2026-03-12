@@ -210,7 +210,7 @@ Dr. Munish Rattan
 
 <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
 
--------------‐-------------------------------
+-----------------------------------------
 ### Visit to 5G Communication Lab
 
 ![Advisor Session (Visit to 5G Communication Lab)](Images/PEC1.JPG)
