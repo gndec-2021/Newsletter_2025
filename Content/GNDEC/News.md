@@ -109,25 +109,6 @@ Dr. Divya Kaushik, Patent Scientist at PSCST, shared insights into different typ
 Dr. Khushdeep Dharni, Associate Director (Technology and Marketing) and IPR Cell, PAU Ludhiana, acquainted the audience with the commercialization aspects of intellectual property.
 </p>
 
-# IKGPTU 27th Annual Athletic Meet Held at GNDEC, Ludhiana
-
-#### 🕒 Published on October 1, 2024
-
-<p align="justify">
-Guru Nanak Dev Engineering College (GNDEC), Ludhiana, successfully hosted the 27th Annual Athletic Meet of I.K. Gujral Punjab Technical University (IKGPTU) on March 20-21, 2025. The event began with a march past by athletes from 20 colleges, showcasing discipline and team spirit.
-
-Dr. Sehijpal Singh, Principal of GNDEC, welcomed participants, emphasizing the importance of fitness and sportsmanship. Chief Guest Dr. Susheel Mittal, Vice Chancellor of IKGPTU, officially inaugurated the meet, with Dr. Vishavjeet Singh Hans (PAU, Ludhiana) as the Guest of Honour.
-
-The two-day event featured various track and field competitions, including sprints, middle and long-distance races, hurdles, relay races, high jump, long jump, triple jump, shot put, javelin throw, discus throw, and hammer throw.
-
-Key officials included Dr. Satvir Singh (Dean Student Welfare), PTU Observer S. Bhupinder Singh, and the Jury of Appeal members. The event was coordinated by Dr. Sameer Sharma (OI/C Sports, PTU) and Dr. Gunjan Bhardwaj (GNDEC).
-
-Mr. Sameer Sharma, PTU Sports Incharge, applauded the athletes’ dedication and competitive spirit. The meet concluded with a grand prize distribution, where winners were honored with medals and trophies.
-
-Dignitaries commended the participants and organizers for making the event a success. Dr. Sehijpal Singh and Dr. Susheel Mittal reaffirmed the university’s commitment to promoting sports alongside academics, fostering teamwork, perseverance, and sportsmanship among students.
-</p>
-
-
 # "Anand Utsav 2025" Ignites Festivities at GNDEC
 
 #### 🕒 Published on March 6, 2025
@@ -143,6 +124,24 @@ Dr. Sehijpal Singh, Principal of GNDEC, underscored the importance of such event
 S. Gurcharan Singh Grewal, Senior Trustee, NSET, commended the students of GNDEC for their achievements in various fields, emphasizing their consistent success in education, sports, and cultural activities.
 
 The seamless organization and successful execution of "Anand Utsav 2025" were attributed to the dedicated efforts of Dr. K.S. Mann, Prof. Jaswant Singh Taur, Dr. Parampal Singh, along with the program coordinators and members of the Cultural Committee.
+</p>
+
+# IKGPTU 27th Annual Athletic Meet Held at GNDEC, Ludhiana
+
+#### 🕒 Published on March 20, 2025
+
+<p align="justify">
+Guru Nanak Dev Engineering College (GNDEC), Ludhiana, successfully hosted the 27th Annual Athletic Meet of I.K. Gujral Punjab Technical University (IKGPTU) on March 20-21, 2025. The event began with a march past by athletes from 20 colleges, showcasing discipline and team spirit.
+
+Dr. Sehijpal Singh, Principal of GNDEC, welcomed participants, emphasizing the importance of fitness and sportsmanship. Chief Guest Dr. Susheel Mittal, Vice Chancellor of IKGPTU, officially inaugurated the meet, with Dr. Vishavjeet Singh Hans (PAU, Ludhiana) as the Guest of Honour.
+
+The two-day event featured various track and field competitions, including sprints, middle and long-distance races, hurdles, relay races, high jump, long jump, triple jump, shot put, javelin throw, discus throw, and hammer throw.
+
+Key officials included Dr. Satvir Singh (Dean Student Welfare), PTU Observer S. Bhupinder Singh, and the Jury of Appeal members. The event was coordinated by Dr. Sameer Sharma (OI/C Sports, PTU) and Dr. Gunjan Bhardwaj (GNDEC).
+
+Mr. Sameer Sharma, PTU Sports Incharge, applauded the athletes’ dedication and competitive spirit. The meet concluded with a grand prize distribution, where winners were honored with medals and trophies.
+
+Dignitaries commended the participants and organizers for making the event a success. Dr. Sehijpal Singh and Dr. Susheel Mittal reaffirmed the university’s commitment to promoting sports alongside academics, fostering teamwork, perseverance, and sportsmanship among students.
 </p>
 
 # GNDEC commenced platinum jubilee  celebrations
