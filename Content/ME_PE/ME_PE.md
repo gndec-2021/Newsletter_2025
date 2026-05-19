@@ -129,7 +129,7 @@ The award was presented by the **GNDEC Alumni President** in the presence of the
 |1| Kumar, R., Sindhwani, R., Kumar, R., Singh, P.L., & Davim, J.P. | Technopreneurship and Sustainability: Innovation, Challenges, and Opportunities (1st ed.). 	|2025| 		CRC Press	9781003537335|
 
 ## Book Chapters Published
-| Sr. No. | Authors | Title | Year | Title of Book / Publisher / Page / ISBN |
+| Sr. No. | Authors | Title | Year | Title of Book  Publisher  Page  ISBN |
 |---|---|---|---|---|
 | 1 | Kunwar Partap Singh, Balwinder Singh, Sukhpal Singh, Raman Kumar, Wulfran Fendzi Mbasso | Case Study, Future Trends, and Innovations in AIoT-Based Manufacturing Technologies | 2025 | Artificial Intelligence and Robotics in Manufacturing, 1st Edition, Chapter 26, CRC Press |
 | 2 | Abhishek Bhattacherjee, Ajay Kumar Badhan, Pushpendra Ratnam Verma, Raman Kumar, Rupinder Kaur, Sehijpal Singh, Wulfran Fendzi Mbasso | Advanced Manufacturing Techniques of Additive Manufacturing Processes: A State-of-the-Art Review and Future Applications | 2025 | Artificial Intelligence and Robotics in Manufacturing, 1st Edition, Chapter 37, CRC Press |
