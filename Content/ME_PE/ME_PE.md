@@ -5,7 +5,7 @@
 <img src="Images/HS.png" width="250" align="right" style="margin-left:15px;">
 
 <p align="justify">
-It is a matter of great pleasure and I would like to share few of my thoughts. 
+it is a matter of great pleasure and I would like to share few of my thoughts. 
 The Department is flourishing and achieving new heights by listing two staff 
 members in World's Top 2% Scientist for 2025 by Stanford University. The 
 department has started new course of B.Tech. in Robotics and Artificial 
