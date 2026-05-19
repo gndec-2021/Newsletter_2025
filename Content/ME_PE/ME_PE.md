@@ -130,12 +130,12 @@ The award was presented by the **GNDEC Alumni President** in the presence of the
 
 ## Book Chapters Published
 | Sr. No. | Authors | Title | Year | Title of Book / Publisher / Page / ISBN |
-|:--|:--|:--|:--|:--|
-| 1 | Kunwar Partap Singh, Balwinder Singh, Sukhpal Singh,**Raman Kumar**, Wulfran Fendzi Mbasso | Case Study, Future Trends, and Innovations in AIoT-Based Manufacturing Technologies | 2025 | *Artificial Intelligence and Robotics in Manufacturing*, 1st Edition, Chapter 26, CRC Press |
-| 2 | Abhishek Bhattacherjee, Ajay Kumar Badhan, Pushpendra Ratnam Verma, **Raman Kumar, Rupinder Kaur, Sehijpal Singh**, Wulfran Fendzi Mbasso | Advanced Manufacturing Techniques of Additive Manufacturing Processes: A State-of-the-Art Review and Future Applications | 2025 | *Artificial Intelligence and Robotics in Manufacturing*, 1st Edition, Chapter 37, CRC Press |
-| 3 | Abhishek Bhattacharjee, Ajay Kumar Badhan, **Raman Kumar**, Harpreet Kaur Channi, Rajender Kumar, Kulwinder Singh Mann | Application of Machine Learning Beyond Manufacturing | 2025 | Chapter 6, *Machine Learning for Advanced Manufacturing*, 1st Edition, CRC Press, Boca Raton, ISBN: 9781003503828 |
-| 4 | Harpreet Kaur Channi, **Raman Kumar, Swapandeep Kaur, Sehijpal Singh**, Abhishek Bhattacharjee, Rajender Kumar | Real-Time Monitoring and Control Using Machine Learning in Industry | 2025 | Chapter 7, *Machine Learning for Advanced Manufacturing*, 1st Edition, CRC Press, Boca Raton, ISBN: 9781003503828 |
-| 5 | Rajender Kumar, Sushant, Rahul Sindhwani, Punj Lata Singh, Harish Kumar Banga, **Raman Kumar** | Navigating Challenges for Tech-Based Enterprises Using Multi-Criteria Decision-Making Approach | 2025 | In: *Technopreneurship and Sustainability: Innovation, Challenges, and Opportunities*, CRC Press |
+|---|---|---|---|---|
+| 1 | Kunwar Partap Singh, Balwinder Singh, Sukhpal Singh, Raman Kumar, Wulfran Fendzi Mbasso | Case Study, Future Trends, and Innovations in AIoT-Based Manufacturing Technologies | 2025 | Artificial Intelligence and Robotics in Manufacturing, 1st Edition, Chapter 26, CRC Press |
+| 2 | Abhishek Bhattacherjee, Ajay Kumar Badhan, Pushpendra Ratnam Verma, Raman Kumar, Rupinder Kaur, Sehijpal Singh, Wulfran Fendzi Mbasso | Advanced Manufacturing Techniques of Additive Manufacturing Processes: A State-of-the-Art Review and Future Applications | 2025 | Artificial Intelligence and Robotics in Manufacturing, 1st Edition, Chapter 37, CRC Press |
+| 3 | Abhishek Bhattacharjee, Ajay Kumar Badhan, Raman Kumar, Harpreet Kaur Channi, Rajender Kumar, Kulwinder Singh Mann | Application of Machine Learning Beyond Manufacturing | 2025 | Chapter 6, Machine Learning for Advanced Manufacturing, 1st Edition, CRC Press, Boca Raton, ISBN: 9781003503828 |
+| 4 | Harpreet Kaur Channi, Raman Kumar, Swapandeep Kaur, Sehijpal Singh, Abhishek Bhattacharjee, Rajender Kumar | Real-Time Monitoring and Control Using Machine Learning in Industry | 2025 | Chapter 7, Machine Learning for Advanced Manufacturing, 1st Edition, CRC Press, Boca Raton, ISBN: 9781003503828 |
+| 5 | Rajender Kumar, Sushant, Rahul Sindhwani, Punj Lata Singh, Harish Kumar Banga, Raman Kumar | Navigating Challenges for Tech-Based Enterprises Using Multi-Criteria Decision-Making Approach | 2025 | In: Technopreneurship and Sustainability: Innovation, Challenges, and Opportunities, CRC Press |
 
 
 
