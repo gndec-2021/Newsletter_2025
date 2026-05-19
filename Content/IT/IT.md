@@ -19,7 +19,7 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Faculty Achievements  
 
-- <p align=justify>Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, Assistant Professor (IT) received an "Appreciation Certificate from Deputy Commissioner", Ludhiana on 9th August 2024.They have been actively involved as a consultant in various prestigious projects, showcasing their expertise and dedication to their field.
+- <p align=justify> Dr. Akshay Girdhar,Professor(IT) & Dr. Jagdeep Singh, Assistant Professor (IT) received an "Appreciation Certificate from Deputy Commissioner", Ludhiana on 9th August 2024.They have been actively involved as a consultant in various prestigious projects, showcasing their expertise and dedication to their field.</p>
 
 - <p align=justify> Dr. K.S.Mann, Dr.Amit Kamra & Dr. Pankaj Bhambri has been awarded with the design patent for Smart Helmet( Design No:382600-001).
 
