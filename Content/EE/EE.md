@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 
-![KDS](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/IMG_kds%2025%20(1).jpg)
+![KDS](Images/img-kds-25-1.jpg)
 
 Technical education blended with ethics and quality comprises of one of the most powerful tools, which gives shape to the coming generations. We at Guru Nanak Dev Engineering College, Ludhiana are trying our level best to make optimized utilization of modern tools and techniques, so that quality technical education can come within the reach of the large masses of India with convenience and affordability.
 I am very hopeful that the publishing of the present College Newsletter will showcase our valuable achievements to the world, which the students and staff have made in spite of all the past and ongoing natural and man-made hurdles.
@@ -28,8 +28,8 @@ It's really proud moments for Guru Nanak Dev Engineering College as our CreatiVe
 **COP28 ( UNFCCC conference)**
 Students learned a lot about various techniques to reduce greenhouse gases and making the earth planet green & clean for coming generations..They got chance to interact with EV manufacturers,Fuel cell technologists ,Director of Dubai Municipality and water sanitation, Ministers of power & Education
 
-![VR](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/WhatsApp%20Image%202026-02-27%20at%203.18.49%20PM%20(1).jpeg)
-![VR1](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/WhatsApp%20Image%202026-02-27%20at%203.18.49%20PM.jpeg)
+![VR](Images/WhatsApp Image 2026-02-27 at 3.18.49 PM (1).jpeg)
+![VR1](Images/WhatsApp Image 2026-02-27 at 3.18.49 PM.jpeg)
 
 
 
@@ -172,8 +172,9 @@ Students learned a lot about various techniques to reduce greenhouse gases and m
 
 ## Student's Corner  
 
-![project](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/BIS%201.jpg)
-![project](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/BIS2.jpg)
+![project](Images/BIS 1.jpg)
+![project](Images/BIS2.jpg)
+
 
 An industrial visit to Sunhome Cable Industries Private Limited, Chandigarh was organized under the guidance of the Bureau of Indian Standards (BIS) for the students of Electrical Engineering from Guru Nanak Dev Engineering College. The visit was conducted with the participation of two faculty members and twenty-nine students, with the objective of providing practical exposure to industrial manufacturing practices and quality standards related to electrical cables.
 
