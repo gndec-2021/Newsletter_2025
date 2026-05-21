@@ -58,18 +58,27 @@ The Information Technology Department is dedicated to empowering students from d
 
 ## Publications  
 
-- **<p align=justify>Dr. Sandeep Kumar Singla**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
-- **<p align=justify>Dr. Pankaj Bhambri**, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.
-- **<p align=justify>Dr. Jagdeep Singh**, “Sustainable machining of Inconel 718 using minimum quantity lubrication: Artificial intelligence-based process modelling”, Heliyon, August 2024.
-- **<p align=justify>Dr. Randeep Kaur**, “Predictive Analytics & Validation for Technology Intervention Recommendation System for Autism: A Machine Learning Framework”, International Journal of INTELLIGENT SYSTEMS & APPLICATIONS in Engineering, July 2024.
-- **<p align=justify>Dr. Jagdeep Singh**, “Modeling and optimization of hard turning: predictive analysis of surface roughness and cutting forces in AISI 52100 steel using machine learning”, International Journal on Interactive Design and Manufacturing , November 2024.
-- **<p align=justify>Pf. Rupinder Kaur**,"Exploring the Role of Computer Vision in Product Design and Development: A Comprehensive Review", International Journal on Interactive Design and Manufacturing(IJIDeM), July 2024.
-- **<p align=justify>Pf. Rupinder Kaur**,"Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy", Springer Scopus Indexed, December 2024.
-- **<p align=justify>Dr. Jagdeep Singh**,"Renewable Energy Optimization for Distributed EV Charging Stations Using HBA and Smart Contracts",IEEE Internet of Things, March 2025.
-- **<p align=justify>Dr. Pankaj Bhambri**,"nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster, Heliyon, May 2025.
-- **<p align=justify>Dr. Palwinder Kaur**,"Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025
-- **<p align=justify>Dr. Randeep Kaur**,""Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy, International Journal of Environmental Sciences,May 2025.
+- <p align="justify"><strong>Dr. Sandeep Kumar Singla</strong>, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.</p>
 
+- <p align="justify"><strong>Dr. Pankaj Bhambri</strong>, “Sentimental analysis using RNN, CNN, and LSTM: A comparative study of accuracy and computational efficiency”, Library Progress International, July 2024.</p>
+
+- <p align="justify"><strong>Dr. Jagdeep Singh</strong>, “Sustainable machining of Inconel 718 using minimum quantity lubrication: Artificial intelligence-based process modelling”, Heliyon, August 2024.</p>
+
+- <p align="justify"><strong>Dr. Randeep Kaur</strong>, “Predictive Analytics & Validation for Technology Intervention Recommendation System for Autism: A Machine Learning Framework”, International Journal of INTELLIGENT SYSTEMS & APPLICATIONS in Engineering, July 2024.</p>
+
+- <p align="justify"><strong>Dr. Jagdeep Singh</strong>, “Modeling and optimization of hard turning: predictive analysis of surface roughness and cutting forces in AISI 52100 steel using machine learning”, International Journal on Interactive Design and Manufacturing, November 2024.</p>
+
+- <p align="justify"><strong>Pf. Rupinder Kaur</strong>, “Exploring the Role of Computer Vision in Product Design and Development: A Comprehensive Review”, International Journal on Interactive Design and Manufacturing (IJIDeM), July 2024.</p>
+
+- <p align="justify"><strong>Pf. Rupinder Kaur</strong>, “Integrating Sustainable Energy Systems and Artificial Intelligence: Transforming the Future of Energy”, Springer Scopus Indexed, December 2024.</p>
+
+- <p align="justify"><strong>Dr. Jagdeep Singh</strong>, “Renewable Energy Optimization for Distributed EV Charging Stations Using HBA and Smart Contracts”, IEEE Internet of Things, March 2025.</p>
+
+- <p align="justify"><strong>Dr. Pankaj Bhambri</strong>, “nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster”, Heliyon, May 2025.</p>
+
+- <p align="justify"><strong>Dr. Palwinder Kaur</strong>, “Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy”, International Journal of Environmental Sciences, May 2025.</p>
+
+- <p align="justify"><strong>Dr. Randeep Kaur</strong>, “Deep Learning In Medical Imaging: Enhancing Diagnostic Accuracy”, International Journal of Environmental Sciences, May 2025.</p>
 
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
