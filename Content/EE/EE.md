@@ -20,8 +20,8 @@ Associate Professor and H.O.D.
 It's really proud moments for Guru Nanak Dev Engineering College as our CreatiVelo team(Genconian PBX) won the overall trophy .The CreatiVelo festival was organised  at Chitkara University by 1GEN and Youth4Planet( Luxembourg)
 
 
-![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/CReat.jpeg)   
-![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/creat1.jpeg) 
+![CreatiVelo](Images/CReat.jpeg)   
+![CreatiVelo Team](Images/creat1.jpeg)
 
 **Dr. Kanwardeep Singh, Pf.Rupinderjit Singh and Dr. Arvind Dhingra** along with students at Chitkara University
 
