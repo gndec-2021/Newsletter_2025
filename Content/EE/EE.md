@@ -172,7 +172,7 @@ Students learned a lot about various techniques to reduce greenhouse gases and m
 
 ## Student's Corner  
 
-![project](Images/BIS 1.jpg)
+![Industrial Visit](Images/bis-visit-1.jpg)
 ![project](Images/BIS2.jpg)
 
 
