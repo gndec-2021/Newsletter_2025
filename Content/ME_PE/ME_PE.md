@@ -36,15 +36,13 @@ outcomes of the Department.
 
 ### 🏆 Outstanding Department Award
 
-<img src="https://github.com/premsinghchopra/Newsletter_2025/blob/main/Content/ME_PE/Images/A1.jpeg" width="400" align="right" style="margin-left:15px;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/A1.jpeg" width="400" align="right" style="margin-left:15px;">
 
 <p align="justify">
-  
-**Department of Mechanical & Production Engineering** received the **Outstanding Department Award** on the occasion of the **69th Foundation Day of Guru Nanak Dev Engineering College (GNDEC), Ludhiana** on **8 April 2025**.
+<b>Department of Mechanical & Production Engineering</b> received the <b>Outstanding Department Award</b> on the occasion of the <b>69th Foundation Day of Guru Nanak Dev Engineering College (GNDEC), Ludhiana</b> on <b>8 April 2025</b>.
 </p>
 
 The award was presented by the **GNDEC Alumni President** in the presence of the **Principal, GNDEC Ludhiana**, recognizing the department's excellence in academics, research, and overall contributions.
-
 
 <br clear="right">
 
@@ -129,14 +127,14 @@ The award was presented by the **GNDEC Alumni President** in the presence of the
 |1| Kumar, R., Sindhwani, R., Kumar, R., Singh, P.L., & Davim, J.P. | Technopreneurship and Sustainability: Innovation, Challenges, and Opportunities (1st ed.). 	|2025| 		CRC Press	9781003537335|
 
 ## Book Chapters Published
+
 | Sr. No. | Authors | Title | Year | Title of Book / Publisher / Page / ISBN |
-|:--|:--|:--|:--|:--|
+|---|---|---|---|---|
 | 1 | Kunwar Partap Singh, Balwinder Singh, Sukhpal Singh, Raman Kumar, Wulfran Fendzi Mbasso | Case Study, Future Trends, and Innovations in AIoT-Based Manufacturing Technologies | 2025 | Artificial Intelligence and Robotics in Manufacturing, 1st Edition, Chapter 26, CRC Press |
 | 2 | Abhishek Bhattacherjee, Ajay Kumar Badhan, Pushpendra Ratnam Verma, Raman Kumar, Rupinder Kaur, Sehijpal Singh, Wulfran Fendzi Mbasso | Advanced Manufacturing Techniques of Additive Manufacturing Processes: A State-of-the-Art Review and Future Applications | 2025 | Artificial Intelligence and Robotics in Manufacturing, 1st Edition, Chapter 37, CRC Press |
 | 3 | Abhishek Bhattacharjee, Ajay Kumar Badhan, Raman Kumar, Harpreet Kaur Channi, Rajender Kumar, Kulwinder Singh Mann | Application of Machine Learning Beyond Manufacturing | 2025 | Chapter 6, Machine Learning for Advanced Manufacturing, 1st Edition, CRC Press, Boca Raton, ISBN: 9781003503828 |
 | 4 | Harpreet Kaur Channi, Raman Kumar, Swapandeep Kaur, Sehijpal Singh, Abhishek Bhattacharjee, Rajender Kumar | Real-Time Monitoring and Control Using Machine Learning in Industry | 2025 | Chapter 7, Machine Learning for Advanced Manufacturing, 1st Edition, CRC Press, Boca Raton, ISBN: 9781003503828 |
 | 5 | Rajender Kumar, Sushant, Rahul Sindhwani, Punj Lata Singh, Harish Kumar Banga, Raman Kumar | Navigating Challenges for Tech-Based Enterprises Using Multi-Criteria Decision-Making Approach | 2025 | In: Technopreneurship and Sustainability: Innovation, Challenges, and Opportunities, CRC Press |
-
 
 ## Conference attended
 
