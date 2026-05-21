@@ -10,7 +10,7 @@ We are also actively involved in research and development activities. Our facult
 <div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech., M.Tech. programs and Ph.D (under Autonomous status) in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams
 </div>
 
-##                                                                                                                                                                    The Department of CSE is accredited by NBA up to 30.06.2028
+## The Department of CSE is accredited by NBA up to 30.06.2028
 
 ## Student Coordinators
 - Kajal Chugh (2303225)
@@ -47,6 +47,7 @@ We are also actively involved in research and development activities. Our facult
 | 6      | MEHTAB SINGH MANN  |CS25S18023222 | 2025  | 
 
 ## CSE Students awarded with Best Project
+
 | Sr. No. | URN | Student Name | Title of the Project | Position | Session |
 |---|---|---|---|---|---|
 | 1 | 2104118, 2104160 | Inderpreet Singh, Raghav Jit | Immune Based Intrusion Detection System | 1st | July-Dec 2024 |
