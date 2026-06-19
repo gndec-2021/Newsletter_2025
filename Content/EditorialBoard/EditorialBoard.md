@@ -41,4 +41,4 @@
 - [Dr. Kulvinder Singh Mann, HoD (IT)](https://gndec.ac.in/faculty/?id=53)
 - [Dr. Harpreet kaur Grewal, HoD (App. Sci.)](https://gndec.ac.in/faculty/?id=71)
 - [Er. Jasbir Singh Saini, HoD (CA)](https://gndec.ac.in/faculty/?id=113)
-- [Dr. Amanjot Kaur Gill, HoD (MBA)](https://gndec.ac.in/faculty/?id=109)
+- [Dr. Amanjot Kaur Gill, HoD (BA)](https://gndec.ac.in/faculty/?id=109)
