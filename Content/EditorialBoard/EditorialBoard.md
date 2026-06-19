@@ -17,9 +17,9 @@
 - [Er. Gitanjali (IT)](https://gndec.ac.in/faculty/?id=387)
 - [Dr. Prem Singh (MPE)](https://gndec.ac.in/faculty/?id=102)
 - [Er. Kamalpreet Kaur](https://gndec.ac.in/faculty/?id=393) [and Er. Harmandeep Kaur (CA)](https://gndec.ac.in/faculty/?id=386)
-- [Dr. Manpreet Kaur (MBA)](https://gndec.ac.in/faculty/?id=464)
+- [Dr. Manpreet Kaur (BA)](https://gndec.ac.in/faculty/?id=464)
 - [Prof. Jasmine Kaur](Profiles/JK.md) [and Prof. Manjot Kaur (App. Sci.)](https://gndec.ac.in/faculty/?id=381)
-- Ar. Neha Garg (SoA)
+- [Ar. Baljeet Singh (SoA)](https://architecture.gndec.ac.in/website1/node/gndec.ac.in)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
 - [Dr. Sachin Bagga (T&P)](https://gndec.ac.in/faculty/?id=208)
 
@@ -41,4 +41,4 @@
 - [Dr. Kulvinder Singh Mann, HoD (IT)](https://gndec.ac.in/faculty/?id=53)
 - [Dr. Harpreet kaur Grewal, HoD (App. Sci.)](https://gndec.ac.in/faculty/?id=71)
 - [Er. Jasbir Singh Saini, HoD (CA)](https://gndec.ac.in/faculty/?id=113)
-- [Dr. Parampal Singh, HoD (MBA)](https://gndec.ac.in/faculty/?id=168)
+- [Dr. Amanjot Kaur Gill, HoD (MBA)](https://gndec.ac.in/faculty/?id=109)
